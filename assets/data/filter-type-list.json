@@ -1,0 +1,34 @@
+[
+    {
+        "tabId": 1,
+        "tabName": "To Watch",
+        "icon": "watch_later",
+        "description": "To Watch",
+        "count": 0,
+        "listId": 7063552
+    },
+    {
+        "tabId": 2,
+        "tabName": "Favourite",
+        "icon": "favorite_border",
+        "description": "Favourite",
+        "count": 0,
+        "listId": 7063560
+    },
+    {
+        "tabId": 3,
+        "tabName": "Watched",
+        "icon": "check_circle_outline",
+        "description": "Watched",
+        "count": 0,
+        "listId": 7063561
+    },
+    {
+        "tabId": 4,
+        "tabName": "Reviewed",
+        "icon": "star_border",
+        "description": "Reviewed",
+        "count": 0,
+        "listId": 7063562
+    }
+]
